@@ -1,5 +1,7 @@
 # JS-Color-Game
 
 ## How To Play :-
-1. Identify the RGB number 
-
+1. See the RGB number 
+2. Guess the color
+3. Select the correct option from the given options below
+4. You can change the level by selecting EASY/HARD
