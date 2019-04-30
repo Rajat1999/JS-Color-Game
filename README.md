@@ -1,5 +1,5 @@
 # JS-Color-Game
-### You can visit the app [here](https://shubhampal98.github.io/JS-Color-Game/)
+### You can visit the app [here](https://rajat-js-color-game.netlify.com/)
 ## How To Play :-
 
 1.Check the RGB number 
