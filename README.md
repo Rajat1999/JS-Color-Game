@@ -2,7 +2,7 @@
 ### You can play it [here](https://rajat-js-color-game.netlify.com/)
 ## How To Play :-
 
-1.Check the RGB number 
+ 1.Check the RGB number 
 
 2. Guess the color 
 
